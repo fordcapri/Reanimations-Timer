@@ -1,0 +1,16 @@
+{
+  "name": "Reanimations-Timer",
+  "short_name": "Rea-Timer",
+  "description": "Timer und Protokoll für die Reanimation nach ERC (Erwachsene, ALS)",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1520",
+  "theme_color": "#0f1520",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
